@@ -1,0 +1,29 @@
+============================================================
+       ELECTRICAL FAULT LOGGING AND ANALYSIS REPORT
+       ACCRA TECHNICAL UNIVERSITY - BEE 208 PROJECT
+============================================================
+
+Generated Report
+Total Records: 1
+
+-------------------- DETAILED FAULT RECORDS --------------------
+
+Fault 1
+Fault ID:           F001
+Location:           Electrical lab
+Fault Type:         Short Circuit
+Voltage Reading:    230 V
+Current Reading:    18 A
+Action Taken:       Isolated circuit and reported to technician
+Severity:           Critical
+----------------------------------------
+
+==================== FAULT SUMMARY ====================
+Total Faults Recorded: 1
+Critical Faults:       1
+Serious Faults:        0
+Moderate Faults:       0
+Minor Faults:          0
+=======================================================
+
+End of Report
